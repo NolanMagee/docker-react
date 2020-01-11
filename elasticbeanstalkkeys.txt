@@ -1,0 +1,3 @@
+user: docker-react-travis-ci
+access key: AKIA2ZIF6YOKJ2KIDB7R
+secret: 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
